@@ -1,0 +1,7 @@
+{
+  "name": "Interview Pro - Live AI Coach",
+  "description": "Real-time voice-based interview practice using Gemini 2.5 Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
